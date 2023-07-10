@@ -1,34 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🏠
+# Decision Support System For Choosing The Right Land Location For Residential
 
-## Getting Started
+Often everyone is confused when they want to determine the location of land for their residence. Real housing is a long-term project, of course, in determining the location, various considerations are needed. Of course, everyone has different interests and uses. Therefore, we will provide solutions to address existing problems through a decision support system that will provide the best alternatives so that everyone is able to realize their desires in a very mature way.
 
-First, run the development server:
+## 📷 Screenshot
+![Web Interface](static/ss/yolo_home.png)
+![Result](static/ss/yolo_result.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## ✨ Authors
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+|         Nama         |         NIM        | 
+| -------------------- | ------------------ |
+| Dicky Setiawan       | 22/511229/NPA/19857| 
+| Rangga Rahman A.     | 20/455452/PA/19667 | 
+| Hafizh Abiyaniqbal H.| 20/462182/PA/20154 | 
+| Muhammad Iqbal F.    | 19/442477/PA/19226 | 
+Decision Support System - KOM - DCSE UGM - 2023
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 📙 Final Project Presentation Slide
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+https://drive.google.com/file/d/1WuNVSCxNjvj4QPmM-moMATZH_zzBa4Ie/view?usp=sharing 
