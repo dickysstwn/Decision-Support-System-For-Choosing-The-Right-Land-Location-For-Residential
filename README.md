@@ -15,6 +15,7 @@ Often everyone is confused when they want to determine the location of land for 
 | Rangga Rahman A.     | 20/455452/PA/19667 | 
 | Hafizh Abiyaniqbal H.| 20/462182/PA/20154 | 
 | Muhammad Iqbal F.    | 19/442477/PA/19226 | 
+
 Decision Support System - KOM - DCSE UGM - 2023
 
 ## 📙 Final Project Presentation Slide
