@@ -4,12 +4,12 @@
 Often everyone is confused when they want to determine the location of land for their residence. Real housing is a long-term project, of course, in determining the location, various considerations are needed. Of course, everyone has different interests and uses. Therefore, we will provide solutions to address existing problems through a decision support system that will provide the best alternatives so that everyone is able to realize their desires in a very mature way.
 
 ## 📷 Screenshot
-![Web Interface](static/ss/yolo_home.png)
-![Result](static/ss/yolo_result.png)
+![Input Alternative & Weight](/mockup/Input.PNG)
+![Output/Result DSS](/mockup/Output.PNG)
 
 ## ✨ Authors
 
-|         Nama         |         NIM        | 
+|         Name         |         NIM        | 
 | -------------------- | ------------------ |
 | Dicky Setiawan       | 22/511229/NPA/19857| 
 | Rangga Rahman A.     | 20/455452/PA/19667 | 
