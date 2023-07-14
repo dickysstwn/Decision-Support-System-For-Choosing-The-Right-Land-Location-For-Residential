@@ -20,4 +20,4 @@ Decision Support System - KOM - DCSE UGM - 2023
 
 ## 📙 Final Project Presentation Slide
 
-https://drive.google.com/file/d/1WuNVSCxNjvj4QPmM-moMATZH_zzBa4Ie/view?usp=sharing 
+[See Presentation Slide Here](https://drive.google.com/file/d/1WuNVSCxNjvj4QPmM-moMATZH_zzBa4Ie/view?usp=sharing)
